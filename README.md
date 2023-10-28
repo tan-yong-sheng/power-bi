@@ -1,11 +1,11 @@
-# Power BI projects
+# Power BI assignment
 
-This is my repository to store and version control my Power BI projects.
+This is my repository to store my Power BI projects.
 
-The course I took for Power BI:
-- Get Job Ready: Power BI Data Analytics for All Levels: https://codebasics.io/courses/bootcamp/1/power-bi-data-analysis-with-end-to-end-project/lecture/937
+### Hosting of Live Dashboard
 
-The dashboard hosting I used: https://novypro.com/
+I used novypro.com to host the live dashboard. Here is my novypro account: https://www.novypro.com/profile_about/tan-yong-sheng
 
-How I do version control for this Power BI repository: https://sneakydaggergames.medium.com/using-git-lfs-large-file-storage-to-overcome-the-github-size-limitation-987bb92d234
-(Note: I used Git LFS to overcome the single file size limit: 100MB)
+### Version Control to Github
+
+I used git lfs to save this project folder to overcome the single file size limit of 100 MB: https://sneakydaggergames.medium.com/using-git-lfs-large-file-storage-to-overcome-the-github-size-limitation-987bb92d234
