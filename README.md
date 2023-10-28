@@ -1,4 +1,4 @@
-# Power BI assignment
+# Power BI Project
 
 This is my repository to store my Power BI projects.
 
